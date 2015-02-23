@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 62737a105185f9b4bbc6793c6db6881b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - face_smile: {fileID: 21300000, guid: 2454b8af71c85e746be40c6d66834797, type: 3}
+  - face_OK: {fileID: 21300000, guid: dbbb4a4fdf8ba964ab65f6d7b06d3de5, type: 3}
+  - face_frown: {fileID: 21300000, guid: 98c9fdd6ae6f97e4c91ada8736dedbde, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

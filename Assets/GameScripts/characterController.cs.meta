@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf22f7673cc78444ca885a3feb56c3c3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - currentLevelController: {instanceID: 0}
+  - face_smile: {fileID: 21300000, guid: 53ef41343c61b8c4f9b35aa6c34c6159, type: 3}
+  - face_OK: {fileID: 21300000, guid: 06b52fab3a150d944b036191a85cfe04, type: 3}
+  - face_frown: {fileID: 21300000, guid: cb735a373ae5c9b47ad87525b3ff050e, type: 3}
+  - face_smile_Stars: {fileID: 21300000, guid: be40846f966800940a53df4207d3e648, type: 3}
+  - face_OK_Stars: {fileID: 21300000, guid: a03ef4abb5f2ca9408a9ccf73c0de7cd, type: 3}
+  - face_frown_Stars: {fileID: 21300000, guid: cbfed9137ed2c4c45addc25e6d5d71ce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
